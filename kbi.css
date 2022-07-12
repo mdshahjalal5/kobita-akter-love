@@ -1,0 +1,10 @@
+.banner{
+    background: url(/banner.jfif);
+    padding:80px;
+    background-size: ;
+    background-repeat: repeat;
+    background-color: red;
+}
+body{
+    background:rgba(128, 128, 128, 0.281);
+}
